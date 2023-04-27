@@ -1,0 +1,11 @@
+[33mcommit 638e8bebb87452da2fe740ba973870c468855e9e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: German <german@serpantin.ru>
+Date:   Thu Apr 27 16:59:10 2023 +0300
+
+    команды git checkout
+
+[33mcommit ce5c99d9f5aacd49538c464279233a43d8f6f862[m[33m ([m[1;32mbranches[m[33m)[m
+Author: German <german@serpantin.ru>
+Date:   Thu Apr 27 16:10:48 2023 +0300
+
+    команды status,add, init и config
