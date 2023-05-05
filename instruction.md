@@ -41,6 +41,8 @@
 
 **git push -u <имя пути> main** выгрузить на github ветку main. Помогает параметр --force 
 
+**git push --set-upstreem <имя пути> < branch name>**
+
 **git pull** загрузка репозитория с github к себе на компьютер
 
 **git clone 
