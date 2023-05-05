@@ -37,7 +37,7 @@
 
 **git remote add <имя пути> <путь - https://github.com/german11911/German_code>** назначаем имя для пути к удалённому репозиторию
 
-**git push -u <имя пути> main** выгрузить на github ветку main
+**git push -u <имя пути> main** выгрузить на github ветку main. Помогает параметр --force 
 
 **git pull** загрузка репозитория с github к себе на компьютер
 # вроде основные все команды?
