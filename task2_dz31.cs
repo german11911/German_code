@@ -1,4 +1,4 @@
-﻿// ввести 2 числа. выдать большее
+﻿// ввести 2 числа. выдать большее 
 System.Console.Write("Введите вещественное, или целое число 1  - > ");
 double x1 = double.Parse(System.Console.ReadLine()!);
 System.Console.Write("Введите вещественное, или целое число 2  - > ");
