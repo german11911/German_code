@@ -2,5 +2,6 @@
 n=int(input('введите целое число:  '))
 i=1
 while i <= n :
-    print(i)
+    print(i,end=' ')
     i *=2
+print()
